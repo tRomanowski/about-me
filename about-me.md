@@ -5,12 +5,12 @@
 * [General Info](#general-info) 
 * [Skills](#skills)
 
-## Gerneral Info
+## General Info
 
 I'm Tim and I live in Leipzig.
 I'm a student at neue Fische and want to become a web developer.
 
-##Skills
+## Skills
 
 * Html
 * CSS
